@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//Hello from Develop2!!!
+
 public class Lesson15 {
     public static void main(String[] args) {
         String string1 = new String("str");

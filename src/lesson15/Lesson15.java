@@ -65,13 +65,13 @@ public class Lesson15 {
         System.out.println(forContains + "contains A:" + forContains.contains("A"));
         System.out.println(forContains + "contains CD:" + forContains.contains("CD"));
         System.out.println(forContains + "contains BD:" + forContains.contains("BD"));
-
         System.out.println("Start with: ----------------------------------------------------");
         //Start with
-        String forStartsWith = "ABCD";
+        String forStartsWith = "TYTYT";
         System.out.println(forStartsWith + "start with A:" + forStartsWith.startsWith("A"));
         System.out.println(forStartsWith + "start with B:" + forStartsWith.startsWith("B"));
 
+        System.out.println("Git try: ----------------------------------------------------");
         System.out.println("Split: ----------------------------------------------------");
         //Split
         String forSplit = "Hello-my-friend!";

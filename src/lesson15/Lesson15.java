@@ -8,6 +8,7 @@ import java.util.List;
 
 public class Lesson15 {
     public static void main(String[] args) {
+        //Comment from Remote
         String string1 = new String("str");
         String string2 = new String("str");
 

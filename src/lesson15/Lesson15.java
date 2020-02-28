@@ -8,7 +8,8 @@ import java.util.List;
 
 public class Lesson15 {
     public static void main(String[] args) {
-        //Commit from Local
+        //Comment from Remote
+        // Commit from Local
         String string1 = new String("str");
         String string2 = new String("str");
 

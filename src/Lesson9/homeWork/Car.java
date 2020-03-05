@@ -5,6 +5,9 @@ public abstract class Car {
     private String manufacturer;
     private CartState cartState;
 
+    public Car() {
+    }
+
     public Car(int year, String manufacturer, CartState cartState) {
         this.year = year;
         this.manufacturer = manufacturer;

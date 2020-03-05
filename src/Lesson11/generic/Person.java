@@ -1,10 +1,17 @@
 package Lesson11.generic;
 
+import com.sun.istack.internal.NotNull;
+
 import java.time.LocalDate;
 
 public abstract class Person {
+
     private int age;
+
+    @NotNull
     private String name;
+
+    @Deprecated
     private String secondName;
     private LocalDate birthday;
 

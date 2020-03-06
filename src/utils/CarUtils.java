@@ -45,7 +45,7 @@ public class CarUtils {
     }
 
     private static CartState getCarState() {
-        int randomState = (int) (Math.random() * 3);
+        int randomState = (int) (Math.random() * 2);
         return CartState.values()[randomState];
     }
 }
